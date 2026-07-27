@@ -1,0 +1,8 @@
+# Temporary files
+*.tmp
+*.swp
+*.log
+
+# OS Metadata
+.DS_Store
+Thumbs.db
